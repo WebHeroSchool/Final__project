@@ -1,0 +1,77 @@
+.menu__item {
+     font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.link {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.header__cart_link-text {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.content__block-h1 {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.link-white {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.catalog__title {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.catalog__item_title {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.catalog__item_price {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.video__title {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.video__subtitle {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.stories__title {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.stories__item-title {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.stories__item-description {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.stories__item-date {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.Photo__title {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
+
+.footer {
+    background-color: black;
+}
+
+.footer__column-title {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+    color: white;
+}
+
+.footer__link {
+    font: 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+    color: white;
+}
+
+.text {
+    font: bold 1vw/1.6vw gotham_proregular,arial,helvetica,sans-serif;
+}
