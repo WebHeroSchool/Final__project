@@ -2209,8 +2209,13 @@ body {
     transform: rotate(-2.4deg);
 }
 
+.video__section_img {
+    height: 11vw;
+    background-color: black;
+}
+
 .video {
-    width: 70.7%;
+    width: 70.2%;
     height: 63.6vw;
     margin: 85.4vw 17.3vw;
     background: white;
